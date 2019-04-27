@@ -1,0 +1,27 @@
+.header {
+  text-align: center;
+  background-color: blueviolet;
+  text-decoration: bisque;
+  height: 10em;
+
+  .top-menu {
+    height: 8em;
+
+    ul.menu-list {
+      margin: 0;
+      padding: 5px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: center;
+      align-content: space-between;
+    }
+
+    ul.menu-list li {
+      width: 20em;
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}

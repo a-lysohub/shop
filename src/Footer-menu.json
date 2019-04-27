@@ -1,0 +1,22 @@
+[
+  {
+    "link": "/contact_us",
+    "label": "Сотрудничество"
+  },
+  {
+    "link": "/contacts",
+    "label": "Контакты"
+  },
+  {
+    "link": "/sale",
+    "label": "Скидки"
+  },
+  {
+    "link": "/specials",
+    "label": "Специальные предложения"
+  },
+  {
+    "link": "/basket",
+    "label": "Корзина"
+  }
+]

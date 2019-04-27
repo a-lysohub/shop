@@ -1,0 +1,22 @@
+[
+  {
+    "link": "extrim",
+    "label": "Home"
+  },
+  {
+    "link": "/contacts",
+    "label": "Контакты"
+  },
+  {
+    "link": "/sale",
+    "label": "Скидки"
+  },
+  {
+    "link": "/specials",
+    "label": "Специальные предложения"
+  },
+  {
+    "link": "/basket",
+    "label": "Корзина"
+  }
+]

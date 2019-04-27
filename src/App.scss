@@ -1,0 +1,18 @@
+.app {
+  .body {
+    border: 0;
+    height: 80em;
+    background-color: deeppink;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    .menu {
+      border: 0;
+      background-color: chartreuse;
+      text-align: left;
+      width: 20em;
+      height: 80em;
+    }
+  }
+
+}
